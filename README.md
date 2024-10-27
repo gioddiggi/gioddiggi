@@ -54,3 +54,10 @@
 ##### CI/CD
 ![Jenkins](https://img.shields.io/badge/jenkins-red.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-orange.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+
+
+
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gdegiorgio&show_icons=true&theme=midnight-purple)](https://github.com/gdegiorgio)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gdegiorgio&layout=compact&theme=midnight-purple)](https://github.com/gdegiorgio)
