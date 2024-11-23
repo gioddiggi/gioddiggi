@@ -14,6 +14,7 @@
 - **Role**: Cloud Engineer at **Sky Italia**
 - **Specialization**: Developing and maintaining cloud-native services
 - **Education**: Master's Degree in Cloud Computing from **Università di Salerno**
+- Currently focusing on [`systatus`](https://github.com/gdegiorgio/systatus)
 
 
 ### 🌐 Connect with Me
