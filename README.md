@@ -14,7 +14,7 @@
 - **Role**: Cloud Engineer at **Sky Italia**
 - **Specialization**: Developing and maintaining cloud-native services
 - **Education**: Master's Degree in Cloud Computing from **Università di Salerno**
-- Currently focusing on ⚡[`lampojs`](https://github.com/gdegiorgio/lampojs)
+- Currently focusing on ⚡[`OpenFeature`](https://openfeature.dev/)
 
 
 ### 🌐 Connect with Me
