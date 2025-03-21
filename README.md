@@ -10,7 +10,7 @@
 
 
 - **Name**: Giovanni De Giorgio
-- **Age**: 25 years old
+- **Age**: 26 years old
 - **Role**: Cloud Engineer at **Sky Italia**
 - **Specialization**: Developing and maintaining cloud-native services
 - **Education**: Master's Degree in Cloud Computing from **Università di Salerno**
